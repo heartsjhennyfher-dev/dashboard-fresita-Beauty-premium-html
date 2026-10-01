@@ -1,0 +1,584 @@
+[
+  {
+    "name": "Labial Berry Chic",
+    "sku": "LAB-BC",
+    "price": 45,
+    "capacity": 300,
+    "reorder": 50,
+    "color": "#D8005F",
+    "current": 304,
+    "avgInventory": 297.33,
+    "rotation": 3.01,
+    "totalOut": 896,
+    "movements": [
+      {
+        "period": "Enero",
+        "type": "Saldo Inicial",
+        "qty": 300,
+        "start": null,
+        "in": null,
+        "out": null,
+        "end": 300
+      },
+      {
+        "period": "Enero - Sem 1",
+        "type": "Ventas",
+        "qty": 81,
+        "start": 300,
+        "in": null,
+        "out": 81,
+        "end": 219
+      },
+      {
+        "period": "Enero - Sem 2",
+        "type": "Compras",
+        "qty": 150,
+        "start": 219,
+        "in": 150,
+        "out": null,
+        "end": 369
+      },
+      {
+        "period": "Enero - Sem 2",
+        "type": "Ventas",
+        "qty": 114,
+        "start": 369,
+        "in": null,
+        "out": 114,
+        "end": 255
+      },
+      {
+        "period": "Enero - Sem 3",
+        "type": "Ventas",
+        "qty": 83,
+        "start": 255,
+        "in": null,
+        "out": 83,
+        "end": 172
+      },
+      {
+        "period": "Enero - Sem 4",
+        "type": "Compras",
+        "qty": 150,
+        "start": 172,
+        "in": 150,
+        "out": null,
+        "end": 322
+      },
+      {
+        "period": "Enero - Sem 4",
+        "type": "Ventas",
+        "qty": 53,
+        "start": 322,
+        "in": null,
+        "out": 53,
+        "end": 269
+      },
+      {
+        "period": "Febrero - Sem 5",
+        "type": "Ventas",
+        "qty": 78,
+        "start": 269,
+        "in": null,
+        "out": 78,
+        "end": 191
+      },
+      {
+        "period": "Febrero - Sem 6",
+        "type": "Compras",
+        "qty": 150,
+        "start": 191,
+        "in": 150,
+        "out": null,
+        "end": 341
+      },
+      {
+        "period": "Febrero - Sem 6",
+        "type": "Ventas",
+        "qty": 59,
+        "start": 341,
+        "in": null,
+        "out": 59,
+        "end": 282
+      },
+      {
+        "period": "Febrero - Sem 7",
+        "type": "Ventas",
+        "qty": 33,
+        "start": 282,
+        "in": null,
+        "out": 33,
+        "end": 249
+      },
+      {
+        "period": "Febrero - Sem 8",
+        "type": "Compras",
+        "qty": 150,
+        "start": 249,
+        "in": 150,
+        "out": null,
+        "end": 399
+      },
+      {
+        "period": "Febrero - Sem 8",
+        "type": "Ventas",
+        "qty": 80,
+        "start": 399,
+        "in": null,
+        "out": 80,
+        "end": 319
+      },
+      {
+        "period": "Marzo - Sem 9",
+        "type": "Ventas",
+        "qty": 70,
+        "start": 319,
+        "in": null,
+        "out": 70,
+        "end": 249
+      },
+      {
+        "period": "Marzo - Sem 10",
+        "type": "Compras",
+        "qty": 150,
+        "start": 249,
+        "in": 150,
+        "out": null,
+        "end": 399
+      },
+      {
+        "period": "Marzo - Sem 10",
+        "type": "Ventas",
+        "qty": 99,
+        "start": 399,
+        "in": null,
+        "out": 99,
+        "end": 300
+      },
+      {
+        "period": "Marzo - Sem 11",
+        "type": "Ventas",
+        "qty": 57,
+        "start": 300,
+        "in": null,
+        "out": 57,
+        "end": 243
+      },
+      {
+        "period": "Marzo - Sem 12",
+        "type": "Compras",
+        "qty": 150,
+        "start": 243,
+        "in": 150,
+        "out": null,
+        "end": 393
+      },
+      {
+        "period": "Marzo - Sem 12",
+        "type": "Ventas",
+        "qty": 53,
+        "start": 393,
+        "in": null,
+        "out": 53,
+        "end": 340
+      },
+      {
+        "period": "Marzo - Sem 13",
+        "type": "Ventas",
+        "qty": 36,
+        "start": 340,
+        "in": null,
+        "out": 36,
+        "end": 304
+      }
+    ]
+  },
+  {
+    "name": "Rubor Secret Berry",
+    "sku": "RUB-SB",
+    "price": 40,
+    "capacity": 250,
+    "reorder": 60,
+    "color": "#FF66A3",
+    "current": 198,
+    "avgInventory": 237.0,
+    "rotation": 4.02,
+    "totalOut": 952,
+    "movements": [
+      {
+        "period": "Enero",
+        "type": "Saldo Inicial",
+        "qty": 250,
+        "start": null,
+        "in": null,
+        "out": null,
+        "end": 250
+      },
+      {
+        "period": "Enero - Sem 1",
+        "type": "Ventas",
+        "qty": 91,
+        "start": 250,
+        "in": null,
+        "out": 91,
+        "end": 159
+      },
+      {
+        "period": "Enero - Sem 2",
+        "type": "Compras",
+        "qty": 150,
+        "start": 159,
+        "in": 150,
+        "out": null,
+        "end": 309
+      },
+      {
+        "period": "Enero - Sem 2",
+        "type": "Ventas",
+        "qty": 61,
+        "start": 309,
+        "in": null,
+        "out": 61,
+        "end": 248
+      },
+      {
+        "period": "Enero - Sem 3",
+        "type": "Ventas",
+        "qty": 95,
+        "start": 248,
+        "in": null,
+        "out": 95,
+        "end": 153
+      },
+      {
+        "period": "Enero - Sem 4",
+        "type": "Compras",
+        "qty": 150,
+        "start": 153,
+        "in": 150,
+        "out": null,
+        "end": 303
+      },
+      {
+        "period": "Enero - Sem 4",
+        "type": "Ventas",
+        "qty": 56,
+        "start": 303,
+        "in": null,
+        "out": 56,
+        "end": 247
+      },
+      {
+        "period": "Febrero - Sem 5",
+        "type": "Ventas",
+        "qty": 65,
+        "start": 247,
+        "in": null,
+        "out": 65,
+        "end": 182
+      },
+      {
+        "period": "Febrero - Sem 6",
+        "type": "Compras",
+        "qty": 150,
+        "start": 182,
+        "in": 150,
+        "out": null,
+        "end": 332
+      },
+      {
+        "period": "Febrero - Sem 6",
+        "type": "Ventas",
+        "qty": 82,
+        "start": 332,
+        "in": null,
+        "out": 82,
+        "end": 250
+      },
+      {
+        "period": "Febrero - Sem 7",
+        "type": "Ventas",
+        "qty": 65,
+        "start": 250,
+        "in": null,
+        "out": 65,
+        "end": 185
+      },
+      {
+        "period": "Febrero - Sem 8",
+        "type": "Compras",
+        "qty": 150,
+        "start": 185,
+        "in": 150,
+        "out": null,
+        "end": 335
+      },
+      {
+        "period": "Febrero - Sem 8",
+        "type": "Ventas",
+        "qty": 69,
+        "start": 335,
+        "in": null,
+        "out": 69,
+        "end": 266
+      },
+      {
+        "period": "Marzo - Sem 9",
+        "type": "Ventas",
+        "qty": 23,
+        "start": 266,
+        "in": null,
+        "out": 23,
+        "end": 243
+      },
+      {
+        "period": "Marzo - Sem 10",
+        "type": "Compras",
+        "qty": 150,
+        "start": 243,
+        "in": 150,
+        "out": null,
+        "end": 393
+      },
+      {
+        "period": "Marzo - Sem 10",
+        "type": "Ventas",
+        "qty": 46,
+        "start": 393,
+        "in": null,
+        "out": 46,
+        "end": 347
+      },
+      {
+        "period": "Marzo - Sem 11",
+        "type": "Ventas",
+        "qty": 124,
+        "start": 347,
+        "in": null,
+        "out": 124,
+        "end": 223
+      },
+      {
+        "period": "Marzo - Sem 12",
+        "type": "Compras",
+        "qty": 150,
+        "start": 223,
+        "in": 150,
+        "out": null,
+        "end": 373
+      },
+      {
+        "period": "Marzo - Sem 12",
+        "type": "Ventas",
+        "qty": 75,
+        "start": 373,
+        "in": null,
+        "out": 75,
+        "end": 298
+      },
+      {
+        "period": "Marzo - Sem 13",
+        "type": "Ventas",
+        "qty": 100,
+        "start": 298,
+        "in": null,
+        "out": 100,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "name": "Gloss Berry Cute",
+    "sku": "GLO-BC",
+    "price": 35,
+    "capacity": 200,
+    "reorder": 50,
+    "color": "#FFB3D9",
+    "current": 175,
+    "avgInventory": 189.33,
+    "rotation": 5.2,
+    "totalOut": 985,
+    "movements": [
+      {
+        "period": "Enero",
+        "type": "Saldo Inicial",
+        "qty": 200,
+        "start": null,
+        "in": null,
+        "out": null,
+        "end": 200
+      },
+      {
+        "period": "Enero - Sem 1",
+        "type": "Ventas",
+        "qty": 64,
+        "start": 200,
+        "in": null,
+        "out": 64,
+        "end": 136
+      },
+      {
+        "period": "Enero - Sem 2",
+        "type": "Compras",
+        "qty": 160,
+        "start": 136,
+        "in": 160,
+        "out": null,
+        "end": 296
+      },
+      {
+        "period": "Enero - Sem 2",
+        "type": "Ventas",
+        "qty": 104,
+        "start": 296,
+        "in": null,
+        "out": 104,
+        "end": 192
+      },
+      {
+        "period": "Enero - Sem 3",
+        "type": "Ventas",
+        "qty": 88,
+        "start": 192,
+        "in": null,
+        "out": 88,
+        "end": 104
+      },
+      {
+        "period": "Enero - Sem 4",
+        "type": "Compras",
+        "qty": 160,
+        "start": 104,
+        "in": 160,
+        "out": null,
+        "end": 264
+      },
+      {
+        "period": "Enero - Sem 4",
+        "type": "Ventas",
+        "qty": 75,
+        "start": 264,
+        "in": null,
+        "out": 75,
+        "end": 189
+      },
+      {
+        "period": "Febrero - Sem 5",
+        "type": "Ventas",
+        "qty": 50,
+        "start": 189,
+        "in": null,
+        "out": 50,
+        "end": 139
+      },
+      {
+        "period": "Febrero - Sem 6",
+        "type": "Compras",
+        "qty": 160,
+        "start": 139,
+        "in": 160,
+        "out": null,
+        "end": 299
+      },
+      {
+        "period": "Febrero - Sem 6",
+        "type": "Ventas",
+        "qty": 91,
+        "start": 299,
+        "in": null,
+        "out": 91,
+        "end": 208
+      },
+      {
+        "period": "Febrero - Sem 7",
+        "type": "Ventas",
+        "qty": 86,
+        "start": 208,
+        "in": null,
+        "out": 86,
+        "end": 122
+      },
+      {
+        "period": "Febrero - Sem 8",
+        "type": "Compras",
+        "qty": 160,
+        "start": 122,
+        "in": 160,
+        "out": null,
+        "end": 282
+      },
+      {
+        "period": "Febrero - Sem 8",
+        "type": "Ventas",
+        "qty": 78,
+        "start": 282,
+        "in": null,
+        "out": 78,
+        "end": 204
+      },
+      {
+        "period": "Marzo - Sem 9",
+        "type": "Ventas",
+        "qty": 68,
+        "start": 204,
+        "in": null,
+        "out": 68,
+        "end": 136
+      },
+      {
+        "period": "Marzo - Sem 10",
+        "type": "Compras",
+        "qty": 160,
+        "start": 136,
+        "in": 160,
+        "out": null,
+        "end": 296
+      },
+      {
+        "period": "Marzo - Sem 10",
+        "type": "Ventas",
+        "qty": 69,
+        "start": 296,
+        "in": null,
+        "out": 69,
+        "end": 227
+      },
+      {
+        "period": "Marzo - Sem 11",
+        "type": "Ventas",
+        "qty": 86,
+        "start": 227,
+        "in": null,
+        "out": 86,
+        "end": 141
+      },
+      {
+        "period": "Marzo - Sem 12",
+        "type": "Compras",
+        "qty": 160,
+        "start": 141,
+        "in": 160,
+        "out": null,
+        "end": 301
+      },
+      {
+        "period": "Marzo - Sem 12",
+        "type": "Ventas",
+        "qty": 65,
+        "start": 301,
+        "in": null,
+        "out": 65,
+        "end": 236
+      },
+      {
+        "period": "Marzo - Sem 13",
+        "type": "Ventas",
+        "qty": 61,
+        "start": 236,
+        "in": null,
+        "out": 61,
+        "end": 175
+      }
+    ]
+  }
+]

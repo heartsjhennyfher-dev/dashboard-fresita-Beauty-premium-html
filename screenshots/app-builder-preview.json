@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fresita Beauty ERP",
+      "hasCanvas": false,
+      "bodyTextLen": 2589,
+      "bodyTextHash": "d7ca91e4a3b010e77360a0199929a3230f363f22a8952af99862c3a1a7c8a5d8",
+      "bodyTextPrefix": "DIRECCIÓN ESTRATÉGICA · Q1 Reporte de Ventas Control de Inventar",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fresita Beauty ERP",
+      "hasCanvas": false,
+      "bodyTextLen": 2589,
+      "bodyTextHash": "35b79499b896850224de36a7a9074207e3835c0b9a8af9838b74b5b1c529ac59",
+      "bodyTextPrefix": "FRESITA BEAUTY · ERP Reporte de ventas Ventas Inventarios Trimes",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

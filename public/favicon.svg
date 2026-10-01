@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Fresita">
+  <rect x="0.75" y="0.75" width="14.5" height="14.5" rx="3.5" fill="#FDFAFB" stroke="#D8005F" stroke-width="1.5"/>
+  <path fill="#D8005F" d="M8 13.5C3.9 10.4 2.9 7.2 5.3 5.5 6.5 4.7 7.6 5.4 8 6.8 8.4 5.4 9.5 4.7 10.7 5.5 13.1 7.2 12.1 10.4 8 13.5z"/>
+  <ellipse cx="6.05" cy="4.85" rx="2.35" ry="1.1" fill="#4A154B" transform="rotate(-38 6.05 4.85)"/>
+  <ellipse cx="9.95" cy="4.85" rx="2.35" ry="1.1" fill="#4A154B" transform="rotate(38 9.95 4.85)"/>
+</svg>
